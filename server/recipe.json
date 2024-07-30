@@ -1,0 +1,23 @@
+[
+    {
+        "name": "vikas",
+        "age": 30,
+        "gender": "male"
+    },
+    {
+        "name": "vijay",
+        "age": 33,
+        "gender": "male"
+    },
+    {
+        "name": "aditya",
+        "age": "34",
+        "gender": "male",
+        "company": "infosys"
+    },
+    {
+        "name": "hemant",
+        "age": "20",
+        "gender": "male"
+    }
+]
